@@ -386,7 +386,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							<aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-2" aria-label="Footer Widget 2" role="region">
 			<section id="text-7" class="widget widget_text"><h2 class="widget-title">Contact Info</h2>			<div class="textwidget"><p>123 Fifth Avenue, New York – 10160, USA<br>
 +1-410-555-0134<br>
-<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="234a4d454c63465b424e534f460d404c4e">[email protected]</a></p>
+<a href="/sito-azienda-tamagno//cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="234a4d454c63465b424e534f460d404c4e">[email protected]</a></p>
 </div>
 		</section>		</aside>
 						</div>
@@ -430,7 +430,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 	</footer><!-- #colophon -->
 	</div><!-- #page -->
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+<script data-cfasync="false" src="/sito-azienda-tamagno//cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/gardener-08\/*"},{"not":{"href_matches":["\/gardener-08\/wp-*.php","\/gardener-08\/wp-admin\/*","\/gardener-08\/wp-content\/uploads\/sites\/667\/*","\/gardener-08\/wp-content\/*","\/gardener-08\/wp-content\/plugins\/*","\/gardener-08\/wp-content\/themes\/astra\/*","\/gardener-08\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
 <div id="showcase-cta-entry-root" class="st-customizer-cta st-section-root"></div><script id="astra-theme-js-js-extra">
